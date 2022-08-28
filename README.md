@@ -2,9 +2,9 @@
 
 This will help you speed up getting/executing cli commands without looking outside of VSCode screen while working.
 
-Add: add a command to the list
-Delete: remove a command from the list
-Reset: clear all stored commands
+- Add: add a command to the list
+- Delete: remove a command from the list
+- Reset: clear all stored commands
 
 ## Release Notes
 
