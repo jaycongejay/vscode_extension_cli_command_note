@@ -2,6 +2,7 @@
 	"name": "my-cli-command-note",
 	"displayName": "My CLI Command Note",
 	"description": "",
+	"icon": "images/extension_logo.png",
 	"version": "0.0.1",
 	"publisher": "DevJay",
 	"engines": {

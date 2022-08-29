@@ -6,6 +6,8 @@ This will help you speed up getting/executing cli commands without looking outsi
 - Delete: remove a command from the list
 - Reset: clear all stored commands
 
+Install > Cmd+Shift+P(Mac) or Ctrl+Shift+P(Windows) > VSMyCommandList: Hello World > click Commands item in the status bar on the bottom
+
 ## Preview
 
 ![Presentation](https://user-images.githubusercontent.com/57822790/187105534-be1cd720-8a9e-4f0f-a04b-2e44342ced1e.gif)
