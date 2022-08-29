@@ -39,7 +39,7 @@
 	// Add button
 	addBtn.addEventListener("click", () => {
 		const newCommand = document.getElementById("commandInput");
-		const newItemIndex = vscode?.getState().length;
+		const newItemIndex = vscode?.getState()?.length ?? 0;
 
 		if (!checkIsNewCommandExist(newCommand.value) && newCommand.value !== "") {
 			const existingCommandList = vscode?.getState() ?? [];

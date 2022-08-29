@@ -3,6 +3,7 @@
 	"displayName": "My CLI Command Note",
 	"description": "",
 	"version": "0.0.1",
+	"publisher": "DevJay",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
